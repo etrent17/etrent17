@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @etrent17
-- 👀 I’m interested in cross-platform app and web development.
-- 🌱 I’m currently learning Python and Javascript.
-- 💞️ I’m looking to collaborate on react-native projects.
+- 👀 I’m interested in cybersecurity.
+- 🌱 I’m currently learning C#.
+- 💞️ I’m looking to collaborate on cybersecurity-related repositories.
 - 📫 How to reach me: tag me "@etrent17" in a discussion and I will respond to your message.
 
 <!---
